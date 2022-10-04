@@ -12,10 +12,10 @@ eleventyNavigation:
 <div class="wf-section">
     <div class="container w-container">
         <div class="section-block-1 bg">
-            <div data-poster-url="https://uploads-ssl.webflow.com/6244728a7aadaf6230add222/626c87f4f1df65da93b826f3_Untitled7-poster-00001.jpg" data-video-urls="videos/Untitled7-transcode.mp4,videos/Untitled7-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="w-background-video w-background-video-atom">
-                <video id="16ad9ea4-1777-0eb0-9ae1-521b4c82b2a8-video" autoplay="" loop="" style="background-image:url(&quot;https://uploads-ssl.webflow.com/6244728a7aadaf6230add222/626c87f4f1df65da93b826f3_Untitled7-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                    <source src="videos/Untitled7-transcode.mp4" data-wf-ignore="true">
-                    <source src="videos/Untitled7-transcode.webm" data-wf-ignore="true">
+            <div data-poster-url="/static/images/hero-poster.jpeg" data-video-urls="/static/images/hero.mp4,/static/images/hero.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="w-background-video w-background-video-atom">
+                <video id="16ad9ea4-1777-0eb0-9ae1-521b4c82b2a8-video" autoplay="" loop="" style="background-image:url('/static/images/hero-poster.jpeg')" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                    <source src="/static/images/hero.mp4" data-wf-ignore="true">
+                    <source src="/static/images/hero.webm" data-wf-ignore="true">
                 </video>
             </div>
         </div>
