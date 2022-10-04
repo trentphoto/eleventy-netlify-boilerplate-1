@@ -2448,6 +2448,7 @@ textarea {
 	padding: 10px 14px;
 	color: #fff;
 	font-size: 14px;
+	text-align: center;
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -3587,7 +3588,7 @@ textarea {
 	text-transform: lowercase;
   }
 
-  .l-homecard-grid {
+  .l-homecard-grid-3 {
 	grid-template-columns: 1fr 1fr 1fr;
   }
   
@@ -3950,6 +3951,7 @@ textarea {
   
 	.l-homecard-grid {
 		-ms-grid-columns: 1fr;
+		grid-template-columns: 1fr;
 	}
   
 	.ctablock__grid {

@@ -22,7 +22,7 @@ eleventyNavigation:
     </div>
 </div>
 
-<div class="homepagesection2 wf-section">
+<div class="section wf-section">
     <div class="container _976 w-container">
         <div>
             <div data-w-id="1c7face1-36bf-7735-a595-d043350cf293" style="opacity: 1;" class="smallcaps">Film • Video Production • Animation</div>

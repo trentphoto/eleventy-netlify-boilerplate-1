@@ -21,7 +21,7 @@ eleventyNavigation:
             </div>
             <h2 class="heading">Services: Overview</h2>
             <div class="mt60">
-                <div data-w-id="aa2fe41e-cf4e-e82e-18e1-5431b7359d4e" style="opacity: 1;" class="w-layout-grid l-homecard-grid">
+                <div data-w-id="aa2fe41e-cf4e-e82e-18e1-5431b7359d4e" style="opacity: 1;" class="w-layout-grid l-homecard-grid l-homecard-grid-3">
                     <div id="w-node-_0b20fdb9-d3a7-07ba-d51d-b2a0ef96e046-26e01e98" class="c-homecard">
                         <div class="c-homecard__icon">video_camera_front</div>
                         <div class="c-homecard__heading">Explainer Video Production</div>
