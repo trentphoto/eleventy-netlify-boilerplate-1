@@ -2213,7 +2213,7 @@ textarea {
   }
   
   body {
-	font-family: 'Playfair Display', sans-serif;
+	font-family: 'Playfair Display', serif;
 	color: #333;
 	font-size: 16px;
 	line-height: 24px;
@@ -2268,7 +2268,7 @@ textarea {
   }
   
   .logo-text {
-	font-family: 'Playfair Display', sans-serif;
+	font-family: 'Playfair Display', serif;
 	color: #fff;
 	font-size: 50px;
 	line-height: 50px;
@@ -2952,26 +2952,6 @@ textarea {
 	background-color: #3e568d;
   }
   
-  .btn-2 {
-	padding: 20px 40px;
-	background-color: #2e4099;
-	font-family: Oswald, sans-serif;
-	color: #fff;
-	font-size: 22px;
-	letter-spacing: 1px;
-	text-decoration: none;
-	text-transform: uppercase;
-  }
-  
-  .btn-2.font-lato {
-	background-color: #3156ad;
-	font-family: Lato, sans-serif;
-	font-size: 32px;
-	line-height: 32px;
-	font-weight: 700;
-	text-transform: none;
-  }
-  
   .p {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -3465,7 +3445,7 @@ textarea {
   }
   
   .blogitem__title {
-	font-family: 'Playfair Display', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 40px;
 	line-height: 40px;
 	font-weight: 700;
