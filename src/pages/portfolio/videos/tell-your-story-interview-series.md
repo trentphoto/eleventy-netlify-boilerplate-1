@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+title: Tell Your Story Interview Series
+metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+section: contact
+date: 2018-01-01
+permalink: /portfolio/videos/tell-your-story-interview-series/index.html
+eleventyNavigation:
+  key: Contact
+  order: 3
+---
+
+
+<div class="section light wf-section">
+    <div class="w-container">
+        <h2 class="heading">Tell Your Story Video Series</h2>
+        <p class="content mb20">Interviewing seniors regarding their participation in the Tell Your Story project hosted by Terrific, Inc.</p>
+        <div style="padding-top:56.27659574468085%" class="mb40 w-video w-embed"><iframe class="embedly-embed" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F733825634%3Fh%3Dec40a56bb4%26app_id%3D122963&amp;dntp=1&amp;display_name=Vimeo&amp;url=https%3A%2F%2Fvimeo.com%2F733825634&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1476641012-9d0f8e983c10a5e3bdb311e214f835ed6db973af8e64d535da85c1274b702d71-d_1280&amp;key=96f1f04c5f4143bcb0f2e68c87d65feb&amp;type=text%2Fhtml&amp;schema=vimeo" scrolling="no" allowfullscreen="" title="tell-your-story-highlight"></iframe></div>
+        <p class="content mb20">Want to learn about our video production process and what we can do for your organization?&nbsp;Click the button below to contact us today.</p>
+        <a href="/contact" class="btn cta w-button">Contact us today</a>
+    </div>
+</div>

@@ -14,7 +14,7 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
-  # Our blog posts
+  # Our Portfolio Items
   - name: "portfolio" # Used in routes, e.g., /admin/collections/blog
     label: "Portfolio" # Used in the UI
     folder: "portfolio" # The path to the folder where the documents are stored
@@ -55,4 +55,11 @@ collections:
       - { label: "Author", name: "author", widget: "string", default: "Anonymous" }
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "wedding"
+    label: "Wedding"
+    folder: content/weddings
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }

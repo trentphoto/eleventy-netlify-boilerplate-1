@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+	{% include "components/head.njk" %}
+    
+    <body>
+        {% include "components/header.njk" %}
+
+        <main>{{ content | safe }}</main>
+        
+        {% if cta %}
+            {% include "components/cta1.njk" %}
+        {% endif %}
+
+        {% include "components/socket.njk" %}
+
+    </body>
+</html>
+
