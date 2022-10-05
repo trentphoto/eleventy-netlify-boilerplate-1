@@ -9,7 +9,7 @@ title: Home
 eleventyNavigation:
   key: Home
   order: 0
-section-1-heading: High-quality video production solutions
+section-1-heading: High-quality video production solutions.
 section-2-heading: Heading 2.
 team: []
 ---
