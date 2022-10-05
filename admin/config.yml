@@ -2,22 +2,44 @@
 
 # The backend option specifies how to access the content for your site
 backend:
-  name: git-gateway
-  branch: master # The branch to update (optional; defaults to master)
+  name: github
+  repo: trentphoto/secretariatmedia-11ty
 
 # Uncomment below to enable drafts https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 # Uncomment below to enable a link to your published site in the header bar of Netlify CMS
-# site_url: https://eleventy-netlify-boilerplate.netlify.app/
+site_url: https://secretariatmedia.com
 
-media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+media_folder: "static/images" # Media files will be stored in the repo under images/uploads
 
 collections:
+  # singles
+  # Our pages e.g. About
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "src/pages/home.md"
+        fields: 
+          - {label: "Section 1 leader", name: section-1-leader, widget: string}
+          - {label: "Section 1 heading", name: section-1-heading, widget: string}
+          - {label: "Section 1 content", name: section-1-content, widget: "markdown"}
+          - {label: "Section 2 heading", name: section-2-heading, widget: string}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+
+      
   # Our Portfolio Items
   - name: "portfolio" # Used in routes, e.g., /admin/collections/blog
     label: "Portfolio" # Used in the UI
-    folder: "portfolio" # The path to the folder where the documents are stored
+    folder: "content/portfolio-items" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -26,27 +48,10 @@ collections:
       - { label: "Author", name: "author", widget: "string", default: "Anonymous" }
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Body", name: "body", widget: "markdown" }
-  # Our pages e.g. About
-  - name: "pages"
-    label: "Page"
-    folder: "pages"
-    create: false # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
-        name: "eleventyNavigation"
-        widget: "object"
-        fields:
-          - { label: "Key", name: "key", widget: "string" }
-          - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
-    folder: "posts" # The path to the folder where the documents are stored
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -56,10 +61,4 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "wedding"
-    label: "Wedding"
-    folder: content/weddings
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  
