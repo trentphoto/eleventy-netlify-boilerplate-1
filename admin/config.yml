@@ -6,7 +6,7 @@ backend:
   repo: trentphoto/secretariatmedia-11ty
 
 # Uncomment below to enable drafts https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 # Uncomment below to enable a link to your published site in the header bar of Netlify CMS
 site_url: https://secretariatmedia.com
@@ -23,10 +23,10 @@ collections:
         name: "home"
         file: "src/pages/home.md"
         fields: 
-          - {label: "Section 1 leader", name: section-1-leader, widget: string}
-          - {label: "Section 1 heading", name: section-1-heading, widget: string}
-          - {label: "Section 1 content", name: section-1-content, widget: "markdown"}
-          - {label: "Section 2 heading", name: section-2-heading, widget: string}
+          - {label: "Section 1 leader", name: section1leader, widget: string}
+          - {label: "Section 1 heading", name: section1heading, widget: string}
+          - {label: "Section 1 content", name: section1content, widget: "markdown"}
+          - {label: "Section 2 heading", name: section2heading, widget: string}
           - label: Team
             name: team
             widget: list
