@@ -3279,11 +3279,9 @@ textarea {
   }
   
   .allworkgriditem__icon {
-	font-family: "Material Icons", sans-serif;
 	color: #fff;
-	font-size: 70px;
-	line-height: 70px;
-	font-weight: 400;
+	fill: #fff;
+	width: 70px;
   }
   
   .allworkgriditem__overlaydark {
