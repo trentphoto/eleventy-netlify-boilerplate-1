@@ -2,6 +2,13 @@
   publish = "_site"
   command = "eleventy"
 
+[[headers]]
+  for = "/static/fonts/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/font-woff"
+    Cache-Control = "public, max-age=2592000"
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
