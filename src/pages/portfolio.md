@@ -14,14 +14,14 @@ eleventyNavigation:
 
 <div>
     <div class="section wf-section">
-        <div class="w-container">
+        <div class="w-container container _976">
             <h1 class="heading">Our Work and Portfolio</h1>
             <div class="w-richtext">
                 <p>See below for some various examples of our production work and what we can do for you.</p>
             </div>
             <h2 class="heading">Services: Overview</h2>
             <div class="mt60">
-                <div data-w-id="aa2fe41e-cf4e-e82e-18e1-5431b7359d4e" style="opacity: 1;" class="w-layout-grid l-homecard-grid l-homecard-grid-3">
+                <div data-w-id="aa2fe41e-cf4e-e82e-18e1-5431b7359d4e" style="opacity: 1;" class="w-layout-grid l-homecard-grid-3">
                     <div id="w-node-_0b20fdb9-d3a7-07ba-d51d-b2a0ef96e046-26e01e98" class="c-homecard">
                         <div class="c-homecard__icon">
                             <svg class="material-icon c-homecard__icon-svg video_camera_front" xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M11.6 32.1h16.8v-1.05q0-2.3-2.25-3.625Q23.9 26.1 20 26.1q-3.9 0-6.15 1.325-2.25 1.325-2.25 3.625Zm8.4-8.75q1.75 0 2.875-1.125T24 19.35q0-1.75-1.125-2.875T20 15.35q-1.75 0-2.875 1.125T16 19.35q0 1.75 1.125 2.875T20 23.35ZM7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h26q1.2 0 2.1.9.9.9.9 2.1v10.75l8-8v20.5l-8-8V37q0 1.2-.9 2.1-.9.9-2.1.9Zm0-3h26V11H7v26Zm0 0V11v26Z"/></svg>
@@ -51,7 +51,7 @@ eleventyNavigation:
         </div>
     </div>
     <div class="section light wf-section">
-        <div class="w-container">
+        <div class="w-container container _976">
             <h2 class="heading">Latest from Secretariat</h2>
             <div class="allworkgrid__wrap">
                 <a href="/portfolio/videos/terrific-inc-june-event" class="allworkgriditem w-inline-block"> 
@@ -88,7 +88,7 @@ eleventyNavigation:
         </div>
     </div>
     <div class="section light wf-section">
-        <div class="w-container">
+        <div class="w-container container _976">
             <h2 class="heading">Business Explainer Videos</h2>
             <div class="allworkgrid__wrap">
                 <a href="/portfolio/videos/explainer-video-taking-donors-seriously" class="allworkgriditem w-inline-block"> 
@@ -123,7 +123,7 @@ eleventyNavigation:
         </div>
     </div>
     <div class="section wf-section">
-        <div class="w-container">
+        <div class="w-container container _976">
             <h2 class="heading">Event Video Production</h2>
             <div class="allworkgrid__wrap">
                 <a href="/portfolio/videos/earl-palmer-speaking-video" class="allworkgriditem w-inline-block"> <div class="allworkgriditem__bgwrap">
@@ -163,7 +163,7 @@ eleventyNavigation:
         </div>
     </div>
     <div class="section wf-section light">
-        <div class="w-container">
+        <div class="w-container container _976">
             <h2 class="heading">Promotional &amp;&nbsp;Advertising Video Production</h2>
             <div class="allworkgrid__wrap">
                 <a href="/portfolio/videos/kindred-community-video" class="allworkgriditem w-inline-block"> <div class="allworkgriditem__bgwrap">
