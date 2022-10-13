@@ -60,7 +60,9 @@ eleventyNavigation:
                     </div> 
                     <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Terrific, Inc June Event</div>
                     </div> 
@@ -74,7 +76,9 @@ eleventyNavigation:
                     </div> 
                     <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Tell Your Story Interview Series</div>
                     </div> 
@@ -97,7 +101,9 @@ eleventyNavigation:
                     </div> 
                     <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Taking Donors Seriously</div>
                     </div> 
@@ -110,7 +116,9 @@ eleventyNavigation:
                         <img src="/static/images/Untitled-kym11.jpg" loading="lazy" srcset="/static/images/Untitled-kym11-p-500.jpeg 500w, /static/images/Untitled-kym11-p-800.jpeg 800w, /static/images/Untitled-kym11-p-1080.jpeg 1080w, /static/images/Untitled-kym11.jpg 1280w" sizes="(max-width: 479px) 100vw, 400px" alt="kindred youth ministry explainer video" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Kindred Youth Ministry</div>
                     </div> <div class="allworkgriditem__border"></div> 
@@ -130,7 +138,9 @@ eleventyNavigation:
                         <img src="/static/images/Untitled.jpg" loading="lazy" srcset="/static/images/Untitled-p-500.jpeg 500w, /static/images/Untitled-p-800.jpeg 800w, /static/images/Untitled-p-1080.jpeg 1080w, /static/images/Untitled.jpg 1920w" sizes="(max-width: 479px) 100vw, 400px" alt="Event video production - Earl Palmer speaking" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Earl Palmer Speaking Video</div>
                     </div> <div class="allworkgriditem__border"></div> <div class="allworkgriditem__overlaydark"></div> <div class="allworkgriditem__overlay"></div> 
@@ -139,7 +149,9 @@ eleventyNavigation:
                         <img src="/static/images/princeton-event-promo.jpg" loading="lazy" srcset="/static/images/princeton-event-promo-p-500.jpeg 500w, /static/images/princeton-event-promo-p-800.jpeg 800w, /static/images/princeton-event-promo.jpg 1280w" sizes="(max-width: 479px) 100vw, 400px" alt="Event video production - Princeton Theological Seminary conference event" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Princeton Seminary Conference</div>
                     </div> <div class="allworkgriditem__border"></div> <div class="allworkgriditem__overlaydark"></div> 
@@ -150,7 +162,9 @@ eleventyNavigation:
                         <img src="/static/images/event-keynote.jpg" loading="lazy" srcset="/static/images/event-keynote-p-500.jpeg 500w, /static/images/event-keynote-p-800.jpeg 800w, /static/images/event-keynote-p-1080.jpeg 1080w, /static/images/event-keynote-p-1600.jpeg 1600w, /static/images/event-keynote.jpg 1920w" sizes="(max-width: 479px) 100vw, 400px" alt="Event video production - Kindred conference event" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Event Keynote Video</div>
                     </div> <div class="allworkgriditem__border"></div> 
@@ -170,7 +184,9 @@ eleventyNavigation:
                         <img src="/static/images/community-update-video.jpg" loading="lazy" srcset="/static/images/community-update-video-p-500.jpeg 500w, /static/images/community-update-video-p-800.jpeg 800w, /static/images/community-update-video-p-1080.jpeg 1080w, /static/images/community-update-video-p-1600.jpeg 1600w, /static/images/community-update-video.jpg 1920w" sizes="(max-width: 479px) 100vw, 400px" alt="promo ad video - kindred community update" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">Kindred Community Video</div>
                     </div> <div class="allworkgriditem__border"></div> 
@@ -181,7 +197,9 @@ eleventyNavigation:
                         <img src="/static/images/Untitled-2-9.47.28-AM.jpg" loading="lazy" srcset="/static/images/Untitled-2-9.47.28-AM-p-500.jpeg 500w, /static/images/Untitled-2-9.47.28-AM-p-800.jpeg 800w, /static/images/Untitled-2-9.47.28-AM-p-1080.jpeg 1080w, /static/images/Untitled-2-9.47.28-AM.jpg 1280w" sizes="(max-width: 479px) 100vw, 400px" alt="" class="allworkgriditem__bgimg">
                     </div> <div class="allworkgriditem__content">
                         <div class="allworkgriditem__iconwrap">
-                            <div class="allworkgriditem__icon">play_circle</div>
+                            <div class="allworkgriditem__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M19.15 32.5 32.5 24l-13.35-8.5ZM24 44q-4.1 0-7.75-1.575-3.65-1.575-6.375-4.3-2.725-2.725-4.3-6.375Q4 28.1 4 24q0-4.15 1.575-7.8 1.575-3.65 4.3-6.35 2.725-2.7 6.375-4.275Q19.9 4 24 4q4.15 0 7.8 1.575 3.65 1.575 6.35 4.275 2.7 2.7 4.275 6.35Q44 19.85 44 24q0 4.1-1.575 7.75-1.575 3.65-4.275 6.375t-6.35 4.3Q28.15 44 24 44Z"/></svg>
+                            </div>
                         </div>
                         <div class="allworkgriditem__title">HMSN Promotion Video</div>
                     </div> <div class="allworkgriditem__border"></div> 
