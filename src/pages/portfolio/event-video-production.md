@@ -23,21 +23,21 @@ eleventyNavigation:
           <div class="w-richtext">
             <p>At Secretariat we specialize in event video production. Whether you're looking to document your event, promote an upcoming event, or livestream an event to a live online audience, we have the creative vision and technical know-how to make it happen.</p>
           </div>
-          <div class="sectionmaterialicon">videocam</div>
+          <svg class="material-icon sectionmaterialicon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 48 48"><path d="M7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h26q1.2 0 2.1.9.9.9.9 2.1v10.75l8-8v20.5l-8-8V37q0 1.2-.9 2.1-.9.9-2.1.9Z"/></svg>
           <h1>1. Event promotional and overview videos</h1>
           <div class="mb40 w-richtext">
             <p>Have an upcoming event? A promotional video is a must. We can create a 2-3 minute promotional video that will showcase your event, create excitement, and call viewers to action. You can use it on social media, online advertising, and your website.</p>
             <p>We can also create an event overview video - our team can come to your event and film the entire event, capturing the energy and providing material your marketing team can use all year round.</p>
           </div>
           <div class="contentsectiondivider"></div>
-          <div class="sectionmaterialicon">co_present</div>
+          <svg class="material-icon sectionmaterialicon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 48 48"><path d="M43 41.45V9H5v16H2V9q0-1.25.875-2.125T5 6h38q1.25 0 2.125.875T46 9v29q0 1.3-.85 2.275-.85.975-2.15 1.175Zm-25-13.5q-3.3 0-5.4-2.1-2.1-2.1-2.1-5.4 0-3.3 2.1-5.4 2.1-2.1 5.4-2.1 3.3 0 5.4 2.1 2.1 2.1 2.1 5.4 0 3.3-2.1 5.4-2.1 2.1-5.4 2.1ZM2 44v-4.7q0-1.9.95-3.25T5.4 34q3.35-1.5 6.425-2.25Q14.9 31 18 31q3.1 0 6.15.775 3.05.775 6.4 2.225 1.55.7 2.5 2.05.95 1.35.95 3.25V44Z"/></svg>
           <h1>2. Keynote and presentation filming</h1>
           <div class="mb40 w-richtext">
             <p>If you are hosting an event where there will be keynote speakers or other important presenters, we can record their presentations for you. You can package these presentations to then be offered online to your attendees, and even to other audiences. </p>
             <p>We can also use the footage to edit into a shorter video that highlights the key points from each speaker/presenter, and incorporate these highlights into next year's promo video, too.</p>
           </div>
           <div class="contentsectiondivider"></div>
-          <div class="sectionmaterialicon">live_tv</div>
+          <svg class="material-icon sectionmaterialicon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 48 48"><path d="M19.15 30.5 32.5 22l-13.35-8.5ZM16.5 42v-4H7q-1.2 0-2.1-.9Q4 36.2 4 35V9q0-1.2.9-2.1Q5.8 6 7 6h34q1.2 0 2.1.9.9.9.9 2.1v26q0 1.2-.9 2.1-.9.9-2.1.9h-9.5v4Z"/></svg>
           <h1>3. Event live-streaming</h1>
           <div class="smallcaps fs16 mb20">Actively engage your audience.</div>
           <div class="content w-richtext">

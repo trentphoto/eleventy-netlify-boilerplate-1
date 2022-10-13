@@ -3382,9 +3382,7 @@ textarea {
   }
   
   .sectionmaterialicon {
-	font-family: "Material Icons", sans-serif;
-	font-size: 100px;
-	line-height: 100px;
+	fill: #333333;
   }
   
   .contentsectiondivider {
@@ -3593,6 +3591,7 @@ textarea {
 	display: inline-block;
 	font-family: "Material Icons", sans-serif;
 	color: #e06219;
+	fill: #e06219;
 	font-size: 50px;
 	line-height: 50px;
 	text-transform: lowercase;
