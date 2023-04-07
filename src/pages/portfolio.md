@@ -15,7 +15,8 @@ eleventyNavigation:
 <div>
     <div class="section wf-section">
         <div class="w-container container _976">
-            <h1 class="heading">Our Work and Portfolio</h1>
+            <div class="smallcaps">Cutting-edge visual media</div>
+            <h1 class="heading">Video Production</h1>
             <div class="w-richtext">
                 <p>See below for some various examples of our production work and what we can do for you.</p>
             </div>
