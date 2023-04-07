@@ -51,7 +51,7 @@ eleventyNavigation:
     </div>
 </div>
 
-<div class="wf-section">
+<!-- <div class="wf-section">
     <div class="container w-container">
         <div class="clear-outline-section">
             <div class="w-row">
@@ -74,4 +74,4 @@ eleventyNavigation:
             </div>
         </div>
     </div>
-</div>
+</div> -->
