@@ -1,7 +1,7 @@
 module.exports = {
     home:'/',
     about: '/about',
-    portfolio: '/portfolio',
-    blog: '/blog',
+    video: '/portfolio',
+    web: '/web',
     contact: '/contact',
 }
