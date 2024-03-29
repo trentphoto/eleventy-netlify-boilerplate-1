@@ -1,6 +1,6 @@
 # Secretariat Media website
 
-Website for our digital media production company based on the East Coast.
+Website for Secretariat, a media company based on the East Coast.
 
 Built with 11ty, netlifycms and netlify.
 
